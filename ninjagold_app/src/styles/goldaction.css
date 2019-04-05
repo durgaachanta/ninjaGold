@@ -1,0 +1,21 @@
+#goldactionbody {
+  height: 250px;
+  padding: 20px 20px 20px 0px;
+  border: 2px solid black;
+  margin: 10px 0px;
+}
+.goldaction{
+  display: inline-block;
+  vertical-align: top;
+  padding: 20px;
+  margin: 10px 10px 10px 0px;
+  text-align: center;
+
+}
+
+.btn {
+  padding: 10px 30px 10px 30px;
+  border-radius: 5px;
+  background-color: indianred;
+
+}
